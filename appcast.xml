@@ -3,6 +3,22 @@
     <channel>
         <title>Berth</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Thu, 05 Nov 2026 11:20:01 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Berth 1.0.1</h2>
+<ul>
+<li>Settings now open on the General tab, which is also the first one.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.0.1/Berth-1.0.1.dmg" length="5252830" type="application/octet-stream" sparkle:edSignature="o0OUkRQ9KwpZVroof1iiYcndnv51nT0s0mH2FsYQYywa/Wzi7f2ZoGGYUxSeZC2DYxScg0N7hRmzT+bDh6XcAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.0.1/Berth2-1.delta" sparkle:deltaFrom="1" length="86466" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="bKUiXTcwDWh6uC2Tw48guhaIlp/hAF1RBNCZMryhwSNs3rNjmNegRnS4t8aGfC/550J5O6SDrtX7LWwS4VLIDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Thu, 05 Nov 2026 10:57:22 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
