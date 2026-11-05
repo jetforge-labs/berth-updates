@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Berth</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 05 Nov 2026 10:57:22 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Berth 1.0.0</h2>
+<ul>
+<li>A Dock that replaces Apple's: pinned and running apps, badges, drag to pin and reorder, and a menu with each app's windows. Apple's Dock keeps running hidden and comes back exactly as it was whenever Berth quits.</li>
+<li>Drop anything onto the Dock: files, folders, images, text and links land on a shelf you can drag back out.</li>
+<li>Live window previews when you rest on a running app, with pinch to zoom.</li>
+<li>Presets: each with its own pinned apps and shelf, switched from a right-click on empty Dock space.</li>
+<li>Solid look in any colour with an optional light, or Glass. Dock on any edge of the screen, Finder and Trash optional.</li>
+<li>Guided onboarding with optional permissions. English and Spanish.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.0.0/Berth-1.0.0.dmg" length="5252677" type="application/octet-stream" sparkle:edSignature="Fam2QVb9zUQnvpNuChVW/kv3IwLzUZFt82lKZzDamlWIEMi+A8XUx/sOBZsgeHu9SKTBDL+WDXbEqi+PMcLQDA=="/>
+        </item>
+    </channel>
+</rss>
