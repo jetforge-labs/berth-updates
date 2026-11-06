@@ -3,6 +3,24 @@
     <channel>
         <title>Berth</title>
         <item>
+            <title>1.1.1</title>
+            <pubDate>Fri, 06 Nov 2026 16:49:19 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Berth 1.1.1</h2>
+<ul>
+<li>Fixed a crash when right-clicking an app icon to open its menu.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.1/Berth-1.1.1.dmg" length="5829432" type="application/octet-stream" sparkle:edSignature="lovBwUf+vBDMixSX4lZdYxT2oXLckqI3w9Rl1jOh9UXhSpQjyjezJj0FHV9g0tSw1CJmn2PXRhR1k6Mcte5aBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.1/Berth4-3.delta" sparkle:deltaFrom="3" length="211410" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1shp3PCC0Xw1A/qVysc5uZ9fKY/Vl3c/W3T3sMKrBJcctRI6q/h5lSYG35ch0INQf36gr6X7+bTuHzQl6KCbCA=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.1/Berth4-2.delta" sparkle:deltaFrom="2" length="1115070" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="66AB90SbVrb5t1BEs9jU3nOFuwvbMoQcQ7AJZCGEQqxSbKwVgEHtjO0rBcsuQqrsUvkSZH4dDgVEvjSO08iMCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.1/Berth4-1.delta" sparkle:deltaFrom="1" length="1114418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="67GTqFl6ExDzY3nKLujKG5XvRH/l8NMMvJN8vEfMnbi1eYmllRtjeSjOpt4KNPpFE5o55CHqcAoP0ap5+cAGAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Fri, 06 Nov 2026 16:33:49 +0000</pubDate>
             <sparkle:version>3</sparkle:version>
