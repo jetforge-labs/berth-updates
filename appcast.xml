@@ -3,6 +3,27 @@
     <channel>
         <title>Berth</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Fri, 06 Nov 2026 16:33:49 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Berth 1.1.0</h2>
+<ul>
+<li>A new right-click menu, drawn in your Dock's own look and anchored above the icon. It works from the keyboard too, and Option switches Quit to Force Quit.</li>
+<li>Actions for each app: new and private windows in browsers, opening a window with a specific browser profile, New Window in Finder and Terminal, and play/pause, previous and next for Spotify and Music with the current track.</li>
+<li>The menu on empty Dock space now lists presets inline, next to Settings.</li>
+<li>The Trash icon updates as soon as something is moved to it or it is emptied from Finder.</li>
+<li>Settings show the app version.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.0/Berth-1.1.0.dmg" length="5829347" type="application/octet-stream" sparkle:edSignature="FZEIz0taKNgYGNsn1O0oCku1XM1DEk2RkZPKZnHP6sxQmvQoH0v5tgAAKq71y50krptiCCIo34f9wFh0TknYDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.0/Berth3-2.delta" sparkle:deltaFrom="2" length="1122602" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZEVB46/Wv2e7oNAu+Kabo4akapemsoMjpeax9g/CF3WVcU4OA/SPb7e67mdrB2M8AzpE27JJWxbXuKOhako1CQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.0/Berth3-1.delta" sparkle:deltaFrom="1" length="1119482" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OjTTVB7QnK8oqJwuW6bRgdpGFh61m+gu8HMtPqE0LE/6bMmGoywQbD53W0Yj29NYwyCYwG70LtHjvzjr/hlhDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.1</title>
             <pubDate>Thu, 05 Nov 2026 11:20:01 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
