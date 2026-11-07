@@ -3,6 +3,25 @@
     <channel>
         <title>Berth</title>
         <item>
+            <title>1.1.2</title>
+            <pubDate>Sat, 07 Nov 2026 09:16:20 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Berth 1.1.2</h2>
+<ul>
+<li>The indicator of an app that is launching no longer blinks.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.2/Berth-1.1.2.dmg" length="5825348" type="application/octet-stream" sparkle:edSignature="4I9HlCmAp1eac/c2RB7p+Q6ScMS9XcxocitXMoZp3xO37bFajrpknLkF2qOhgBdkuqQyASFz3ZYOYv71FzG4Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.2/Berth5-4.delta" sparkle:deltaFrom="4" length="452890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="XblDXEFvhQGvd0BG0+u4TFjC+FKCgJj4W/4QtirRRhQqiNF5srD3Db07J2vCJU5YKoOOb6ed4XhkZtjb2eZ0BQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.2/Berth5-3.delta" sparkle:deltaFrom="3" length="464578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P6l3ZbIWO5pOt+qBtJHhrxu+19fNMRHoSFqv3Estu2LidPgaiaNO9Z4tp3Q6O4DAgv52ILZNrRtoU/ect74KCA=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.2/Berth5-2.delta" sparkle:deltaFrom="2" length="1130586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6acwH3fkuuncM9gP5dTekjIf2BnlOes5xIi/nDfzoUNcXpw584NfPFGLlmHGt3IdsXyPY0Fne0wKWwbr1BtUCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.2/Berth5-1.delta" sparkle:deltaFrom="1" length="1137110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E6kbg5OUWw4ff8aO6tMaGpqIsa2dtgNJUjfzoHif1qYCFvMvutsnLZC/KaqGzIiKZxDPjHsDWWFaMWwxquK4Ag=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.1</title>
             <pubDate>Fri, 06 Nov 2026 16:49:19 +0000</pubDate>
             <sparkle:version>4</sparkle:version>
