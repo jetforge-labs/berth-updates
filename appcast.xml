@@ -3,6 +3,27 @@
     <channel>
         <title>Berth</title>
         <item>
+            <title>1.1.4</title>
+            <pubDate>Mon, 09 Nov 2026 14:28:45 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Berth 1.1.4</h2>
+<ul>
+<li>Dropping a file on an app in the dock now opens it with that app, as in Apple's Dock. If the app cannot open the file nothing happens; hold Command to force it.</li>
+<li>Holding a file over an app in the dock for two seconds brings that app forward, so you can drop the file into its window.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.4/Berth-1.1.4.dmg" length="5845964" type="application/octet-stream" sparkle:edSignature="0OQOK/sLaUTjjreQpXCTsb8w7Ujy6enkcs0Wwsx2XB/nuWz0KJBXW7xEetcyBLkV0P2RoV7QbhBqlhbdJ8pRCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.4/Berth7-6.delta" sparkle:deltaFrom="6" length="523922" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VqOEmbpuWnwz/KwZbilxp3fuQVHbvkg6oqCnspbSNcJoK/l62DZ9zm28+aOZm/AWuewjZ7XmNeklSg3C0t6LDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.4/Berth7-5.delta" sparkle:deltaFrom="5" length="562130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kQ37lhJtYdZ/2BdDCGehChd++/jUbC77KbrQ/Bv0JsN6s/usGXmktgG7bm1AkA7pPSrNOSjvXqIXqm8cbEZuBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.4/Berth7-4.delta" sparkle:deltaFrom="4" length="604490" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="esCaBB7r2W/qbE1yqalXtFzZXa8SWlM9lyVigy8Zxaq2+ByFe1uGkDTE3+AfYV90/fmcjLgq6jdkVH4lpeFrAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.4/Berth7-3.delta" sparkle:deltaFrom="3" length="596338" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RtXNqDmQJYvv3GpxGahaQ5UjBQ2BzAQH7PQGnwb1Etnk5heHase66pZ0f6ZIF+z8791zcLBUkkjadnU1fxokBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/berth-updates/releases/download/v1.1.4/Berth7-2.delta" sparkle:deltaFrom="2" length="1174198" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SpRUHRj0XoWvx7CfosERlJsXzVq5fWA9x54grAv7oNHHz96xHQNgFtxJHv+UC0EIV6Ki1nV28JbstrjGQdNLAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.3</title>
             <pubDate>Sat, 07 Nov 2026 09:37:11 +0000</pubDate>
             <sparkle:version>6</sparkle:version>
